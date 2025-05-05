@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Blenda | Desarrolladora Full Stack</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <h1>????? Blenda</h1>
+    <nav>
+      <a href="#sobre-mi">Sobre mí</a>
+      <a href="#proyectos">Proyectos</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Hola, soy Blenda</h2>
+    <p>Desarrolladora Full Stack apasionada por crear soluciones modernas y funcionales</p>
+  </section>
+
+  <section id="sobre-mi" class="sobre-mi">
+    <h2>Sobre mí</h2>
+    <p>Tengo 27 años y soy desarrolladora Full Stack. Manejo tecnologías como JavaScript, HTML, CSS, jQuery, PHP, MySQL, React, Node.js y Python. Tengo experiencia en desarrollo de software tanto frontend como backend.</p>
+  </section>
+
+  <section id="proyectos" class="proyectos">
+    <h2>Proyectos</h2>
+    <ul>
+      <li><strong>Nombre Proyecto 1</strong>: Descripción breve del proyecto.</li>
+      <li><strong>Nombre Proyecto 2</strong>: Descripción breve del proyecto.</li>
+      <!-- Agrega más si quieres -->
+    </ul>
+  </section>
+
+  <section id="contacto" class="contacto">
+    <h2>Contacto</h2>
+    <p>?? <a href="mailto:blenda@example.com">blenda@example.com</a></p>
+    <p>?? <a href="https://www.linkedin.com/in/tuusuario" target="_blank">LinkedIn</a></p>
+    <p>?? <a href="https://github.com/tuusuario" target="_blank">GitHub</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Blenda. Todos los derechos reservados.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

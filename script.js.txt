@@ -1,0 +1,2 @@
+// Puedes agregar aquí futuras animaciones o efectos interactivos
+console.log("Página cargada correctamente ?");
